@@ -1,0 +1,11 @@
+this text include many words for testing functions:	
+money, for from, where, int double   char bar
+
+float and
+exit;
+
+between from where and mutable this is words
+goto and goto; and goto.
+this is words from sql: where and where; if wheree benween iif or if existsts or exists? rollback or not; table or column? if exist(column) than exists and tab;le or table and database;
+this is words from c#: if(true) then begin while(int i==0) i++; break if no continue; and if try - catch and finally!!! not tables. override or overide? maybe virtual
+this is words from c++: mutable int i=2; void myFunc() const{ ++i;} double>float? why not? char<int? not - explici't People(int); yes - explicit People(int)! partial class; returns or return; bye!

@@ -1,0 +1,11 @@
+H:\rabota\C#\Notepad\Notepad\bin\Release\Notepad.exe.config
+H:\rabota\C#\Notepad\Notepad\bin\Release\Notepad.exe
+H:\rabota\C#\Notepad\Notepad\bin\Release\Notepad.pdb
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.Child.resources
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.Form1.resources
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.Properties.Resources.resources
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.csproj.GenerateResource.cache
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.exe
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.pdb
+H:\rabota\C#\Notepad\Notepad\obj\Release\Notepad.csprojAssemblyReference.cache
